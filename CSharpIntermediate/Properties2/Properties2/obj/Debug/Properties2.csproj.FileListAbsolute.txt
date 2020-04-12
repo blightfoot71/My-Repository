@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\CSharpIntermediate\Properties2\Properties2\bin\Debug\Properties2.exe.config
+C:\Users\Brian\source\repos\CSharpIntermediate\Properties2\Properties2\bin\Debug\Properties2.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\Properties2\Properties2\bin\Debug\Properties2.pdb
+C:\Users\Brian\source\repos\CSharpIntermediate\Properties2\Properties2\obj\Debug\Properties2.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\CSharpIntermediate\Properties2\Properties2\obj\Debug\Properties2.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\Properties2\Properties2\obj\Debug\Properties2.pdb

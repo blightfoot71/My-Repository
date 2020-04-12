@@ -1,0 +1,11 @@
+C:\Users\Brian\source\repos\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\netcoreapp2.1\DirectoryAndDirectoryInfo.deps.json
+C:\Users\Brian\source\repos\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\netcoreapp2.1\DirectoryAndDirectoryInfo.runtimeconfig.json
+C:\Users\Brian\source\repos\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\netcoreapp2.1\DirectoryAndDirectoryInfo.runtimeconfig.dev.json
+C:\Users\Brian\source\repos\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\netcoreapp2.1\DirectoryAndDirectoryInfo.dll
+C:\Users\Brian\source\repos\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\netcoreapp2.1\DirectoryAndDirectoryInfo.pdb
+C:\Users\Brian\source\repos\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\netcoreapp2.1\DirectoryAndDirectoryInfo.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\netcoreapp2.1\DirectoryAndDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\netcoreapp2.1\DirectoryAndDirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\Brian\source\repos\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\netcoreapp2.1\DirectoryAndDirectoryInfo.AssemblyInfo.cs
+C:\Users\Brian\source\repos\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\netcoreapp2.1\DirectoryAndDirectoryInfo.dll
+C:\Users\Brian\source\repos\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\netcoreapp2.1\DirectoryAndDirectoryInfo.pdb

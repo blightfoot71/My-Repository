@@ -1,0 +1,7 @@
+C:\Users\Brian\source\repos\python\LinkedListQueue\LinkedListQueue\bin\Debug\LinkedListQueue.exe.config
+C:\Users\Brian\source\repos\python\LinkedListQueue\LinkedListQueue\bin\Debug\LinkedListQueue.exe
+C:\Users\Brian\source\repos\python\LinkedListQueue\LinkedListQueue\bin\Debug\LinkedListQueue.pdb
+C:\Users\Brian\source\repos\python\LinkedListQueue\LinkedListQueue\obj\Debug\LinkedListQueue.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\python\LinkedListQueue\LinkedListQueue\obj\Debug\LinkedListQueue.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\python\LinkedListQueue\LinkedListQueue\obj\Debug\LinkedListQueue.exe
+C:\Users\Brian\source\repos\python\LinkedListQueue\LinkedListQueue\obj\Debug\LinkedListQueue.pdb

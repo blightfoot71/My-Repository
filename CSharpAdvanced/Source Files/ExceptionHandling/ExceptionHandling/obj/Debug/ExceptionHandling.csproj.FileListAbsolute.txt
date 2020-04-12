@@ -1,0 +1,12 @@
+C:\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Projects\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojResolveAssemblyReference.cache
+C:\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Projects\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

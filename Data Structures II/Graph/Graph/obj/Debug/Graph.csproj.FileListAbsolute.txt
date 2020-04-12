@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\Data Structures II\Graph\Graph\bin\Debug\Graph.exe.config
+C:\Users\Brian\source\repos\Data Structures II\Graph\Graph\bin\Debug\Graph.exe
+C:\Users\Brian\source\repos\Data Structures II\Graph\Graph\bin\Debug\Graph.pdb
+C:\Users\Brian\source\repos\Data Structures II\Graph\Graph\obj\Debug\Graph.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures II\Graph\Graph\obj\Debug\Graph.exe
+C:\Users\Brian\source\repos\Data Structures II\Graph\Graph\obj\Debug\Graph.pdb

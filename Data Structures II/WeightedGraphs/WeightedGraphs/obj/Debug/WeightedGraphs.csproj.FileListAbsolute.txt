@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\Data Structures II\WeightedGraphs\WeightedGraphs\bin\Debug\WeightedGraphs.exe.config
+C:\Users\Brian\source\repos\Data Structures II\WeightedGraphs\WeightedGraphs\bin\Debug\WeightedGraphs.exe
+C:\Users\Brian\source\repos\Data Structures II\WeightedGraphs\WeightedGraphs\bin\Debug\WeightedGraphs.pdb
+C:\Users\Brian\source\repos\Data Structures II\WeightedGraphs\WeightedGraphs\obj\Debug\WeightedGraphs.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures II\WeightedGraphs\WeightedGraphs\obj\Debug\WeightedGraphs.exe
+C:\Users\Brian\source\repos\Data Structures II\WeightedGraphs\WeightedGraphs\obj\Debug\WeightedGraphs.pdb

@@ -1,0 +1,14 @@
+C:\Users\Brian\source\repos\Data Structures I\HashTableBuildFromScratch\HashTableBuildFromScratch\bin\Debug\HashTableBuildFromScratch.exe.config
+C:\Users\Brian\source\repos\Data Structures I\HashTableBuildFromScratch\HashTableBuildFromScratch\bin\Debug\HashTableBuildFromScratch.exe
+C:\Users\Brian\source\repos\Data Structures I\HashTableBuildFromScratch\HashTableBuildFromScratch\bin\Debug\HashTableBuildFromScratch.pdb
+C:\Users\Brian\source\repos\Data Structures I\HashTableBuildFromScratch\HashTableBuildFromScratch\obj\Debug\HashTableBuildFromScratch.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures I\HashTableBuildFromScratch\HashTableBuildFromScratch\obj\Debug\HashTableBuildFromScratch.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Data Structures I\HashTableBuildFromScratch\HashTableBuildFromScratch\obj\Debug\HashTableBuildFromScratch.exe
+C:\Users\Brian\source\repos\Data Structures I\HashTableBuildFromScratch\HashTableBuildFromScratch\obj\Debug\HashTableBuildFromScratch.pdb
+C:\Users\Brian\source\repos\Data Structures I\HashTableBuildFromScratch - Refactored\HashTableBuildFromScratch\bin\Debug\HashTableBuildFromScratch.exe.config
+C:\Users\Brian\source\repos\Data Structures I\HashTableBuildFromScratch - Refactored\HashTableBuildFromScratch\bin\Debug\HashTableBuildFromScratch.exe
+C:\Users\Brian\source\repos\Data Structures I\HashTableBuildFromScratch - Refactored\HashTableBuildFromScratch\bin\Debug\HashTableBuildFromScratch.pdb
+C:\Users\Brian\source\repos\Data Structures I\HashTableBuildFromScratch - Refactored\HashTableBuildFromScratch\obj\Debug\HashTableBuildFromScratch.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures I\HashTableBuildFromScratch - Refactored\HashTableBuildFromScratch\obj\Debug\HashTableBuildFromScratch.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Data Structures I\HashTableBuildFromScratch - Refactored\HashTableBuildFromScratch\obj\Debug\HashTableBuildFromScratch.exe
+C:\Users\Brian\source\repos\Data Structures I\HashTableBuildFromScratch - Refactored\HashTableBuildFromScratch\obj\Debug\HashTableBuildFromScratch.pdb

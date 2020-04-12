@@ -1,0 +1,11 @@
+C:\Users\Brian\source\repos\Path\Path\bin\Debug\netcoreapp2.1\Path.deps.json
+C:\Users\Brian\source\repos\Path\Path\bin\Debug\netcoreapp2.1\Path.runtimeconfig.json
+C:\Users\Brian\source\repos\Path\Path\bin\Debug\netcoreapp2.1\Path.runtimeconfig.dev.json
+C:\Users\Brian\source\repos\Path\Path\bin\Debug\netcoreapp2.1\Path.dll
+C:\Users\Brian\source\repos\Path\Path\bin\Debug\netcoreapp2.1\Path.pdb
+C:\Users\Brian\source\repos\Path\Path\obj\Debug\netcoreapp2.1\Path.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Path\Path\obj\Debug\netcoreapp2.1\Path.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Path\Path\obj\Debug\netcoreapp2.1\Path.AssemblyInfoInputs.cache
+C:\Users\Brian\source\repos\Path\Path\obj\Debug\netcoreapp2.1\Path.AssemblyInfo.cs
+C:\Users\Brian\source\repos\Path\Path\obj\Debug\netcoreapp2.1\Path.dll
+C:\Users\Brian\source\repos\Path\Path\obj\Debug\netcoreapp2.1\Path.pdb

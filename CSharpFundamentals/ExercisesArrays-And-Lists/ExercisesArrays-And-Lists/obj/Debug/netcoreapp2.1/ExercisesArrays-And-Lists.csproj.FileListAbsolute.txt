@@ -1,0 +1,11 @@
+C:\Users\Brian\source\repos\ExercisesArrays-And-Lists\ExercisesArrays-And-Lists\bin\Debug\netcoreapp2.1\ExercisesArrays-And-Lists.deps.json
+C:\Users\Brian\source\repos\ExercisesArrays-And-Lists\ExercisesArrays-And-Lists\bin\Debug\netcoreapp2.1\ExercisesArrays-And-Lists.runtimeconfig.json
+C:\Users\Brian\source\repos\ExercisesArrays-And-Lists\ExercisesArrays-And-Lists\bin\Debug\netcoreapp2.1\ExercisesArrays-And-Lists.runtimeconfig.dev.json
+C:\Users\Brian\source\repos\ExercisesArrays-And-Lists\ExercisesArrays-And-Lists\bin\Debug\netcoreapp2.1\ExercisesArrays-And-Lists.dll
+C:\Users\Brian\source\repos\ExercisesArrays-And-Lists\ExercisesArrays-And-Lists\bin\Debug\netcoreapp2.1\ExercisesArrays-And-Lists.pdb
+C:\Users\Brian\source\repos\ExercisesArrays-And-Lists\ExercisesArrays-And-Lists\obj\Debug\netcoreapp2.1\ExercisesArrays-And-Lists.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\ExercisesArrays-And-Lists\ExercisesArrays-And-Lists\obj\Debug\netcoreapp2.1\ExercisesArrays-And-Lists.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\ExercisesArrays-And-Lists\ExercisesArrays-And-Lists\obj\Debug\netcoreapp2.1\ExercisesArrays-And-Lists.AssemblyInfoInputs.cache
+C:\Users\Brian\source\repos\ExercisesArrays-And-Lists\ExercisesArrays-And-Lists\obj\Debug\netcoreapp2.1\ExercisesArrays-And-Lists.AssemblyInfo.cs
+C:\Users\Brian\source\repos\ExercisesArrays-And-Lists\ExercisesArrays-And-Lists\obj\Debug\netcoreapp2.1\ExercisesArrays-And-Lists.dll
+C:\Users\Brian\source\repos\ExercisesArrays-And-Lists\ExercisesArrays-And-Lists\obj\Debug\netcoreapp2.1\ExercisesArrays-And-Lists.pdb

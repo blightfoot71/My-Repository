@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\Data Structures III\StringUtils\StringUtils\bin\Debug\StringUtils.exe.config
+C:\Users\Brian\source\repos\Data Structures III\StringUtils\StringUtils\bin\Debug\StringUtils.exe
+C:\Users\Brian\source\repos\Data Structures III\StringUtils\StringUtils\bin\Debug\StringUtils.pdb
+C:\Users\Brian\source\repos\Data Structures III\StringUtils\StringUtils\obj\Debug\StringUtils.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures III\StringUtils\StringUtils\obj\Debug\StringUtils.exe
+C:\Users\Brian\source\repos\Data Structures III\StringUtils\StringUtils\obj\Debug\StringUtils.pdb

@@ -1,0 +1,11 @@
+C:\Users\Brian\source\repos\CSharpFundamentals_Solution\CSharpFundamentals\bin\Debug\netcoreapp2.1\CSharpFundamentals.deps.json
+C:\Users\Brian\source\repos\CSharpFundamentals_Solution\CSharpFundamentals\bin\Debug\netcoreapp2.1\CSharpFundamentals.runtimeconfig.json
+C:\Users\Brian\source\repos\CSharpFundamentals_Solution\CSharpFundamentals\bin\Debug\netcoreapp2.1\CSharpFundamentals.runtimeconfig.dev.json
+C:\Users\Brian\source\repos\CSharpFundamentals_Solution\CSharpFundamentals\bin\Debug\netcoreapp2.1\CSharpFundamentals.dll
+C:\Users\Brian\source\repos\CSharpFundamentals_Solution\CSharpFundamentals\bin\Debug\netcoreapp2.1\CSharpFundamentals.pdb
+C:\Users\Brian\source\repos\CSharpFundamentals_Solution\CSharpFundamentals\obj\Debug\netcoreapp2.1\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\CSharpFundamentals_Solution\CSharpFundamentals\obj\Debug\netcoreapp2.1\CSharpFundamentals.AssemblyInfoInputs.cache
+C:\Users\Brian\source\repos\CSharpFundamentals_Solution\CSharpFundamentals\obj\Debug\netcoreapp2.1\CSharpFundamentals.AssemblyInfo.cs
+C:\Users\Brian\source\repos\CSharpFundamentals_Solution\CSharpFundamentals\obj\Debug\netcoreapp2.1\CSharpFundamentals.dll
+C:\Users\Brian\source\repos\CSharpFundamentals_Solution\CSharpFundamentals\obj\Debug\netcoreapp2.1\CSharpFundamentals.pdb
+C:\Users\Brian\source\repos\CSharpFundamentals_Solution\CSharpFundamentals\obj\Debug\netcoreapp2.1\CSharpFundamentals.csprojAssemblyReference.cache

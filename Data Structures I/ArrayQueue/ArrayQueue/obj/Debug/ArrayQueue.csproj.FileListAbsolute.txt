@@ -1,0 +1,7 @@
+C:\Users\Brian\source\repos\ArrayQueue\ArrayQueue\bin\Debug\ArrayQueue.exe.config
+C:\Users\Brian\source\repos\ArrayQueue\ArrayQueue\bin\Debug\ArrayQueue.exe
+C:\Users\Brian\source\repos\ArrayQueue\ArrayQueue\bin\Debug\ArrayQueue.pdb
+C:\Users\Brian\source\repos\ArrayQueue\ArrayQueue\obj\Debug\ArrayQueue.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\ArrayQueue\ArrayQueue\obj\Debug\ArrayQueue.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\ArrayQueue\ArrayQueue\obj\Debug\ArrayQueue.exe
+C:\Users\Brian\source\repos\ArrayQueue\ArrayQueue\obj\Debug\ArrayQueue.pdb

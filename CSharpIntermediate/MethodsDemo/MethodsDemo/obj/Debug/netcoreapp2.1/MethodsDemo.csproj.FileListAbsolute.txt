@@ -1,0 +1,11 @@
+C:\Users\Brian\source\repos\MethodsDemo\MethodsDemo\bin\Debug\netcoreapp2.1\MethodsDemo.deps.json
+C:\Users\Brian\source\repos\MethodsDemo\MethodsDemo\bin\Debug\netcoreapp2.1\MethodsDemo.runtimeconfig.json
+C:\Users\Brian\source\repos\MethodsDemo\MethodsDemo\bin\Debug\netcoreapp2.1\MethodsDemo.runtimeconfig.dev.json
+C:\Users\Brian\source\repos\MethodsDemo\MethodsDemo\bin\Debug\netcoreapp2.1\MethodsDemo.dll
+C:\Users\Brian\source\repos\MethodsDemo\MethodsDemo\bin\Debug\netcoreapp2.1\MethodsDemo.pdb
+C:\Users\Brian\source\repos\MethodsDemo\MethodsDemo\obj\Debug\netcoreapp2.1\MethodsDemo.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\MethodsDemo\MethodsDemo\obj\Debug\netcoreapp2.1\MethodsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\MethodsDemo\MethodsDemo\obj\Debug\netcoreapp2.1\MethodsDemo.AssemblyInfoInputs.cache
+C:\Users\Brian\source\repos\MethodsDemo\MethodsDemo\obj\Debug\netcoreapp2.1\MethodsDemo.AssemblyInfo.cs
+C:\Users\Brian\source\repos\MethodsDemo\MethodsDemo\obj\Debug\netcoreapp2.1\MethodsDemo.dll
+C:\Users\Brian\source\repos\MethodsDemo\MethodsDemo\obj\Debug\netcoreapp2.1\MethodsDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\Data Structures III\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+C:\Users\Brian\source\repos\Data Structures III\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\Brian\source\repos\Data Structures III\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\Brian\source\repos\Data Structures III\MergeSort\MergeSort\obj\Debug\MergeSort.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures III\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+C:\Users\Brian\source\repos\Data Structures III\MergeSort\MergeSort\obj\Debug\MergeSort.pdb

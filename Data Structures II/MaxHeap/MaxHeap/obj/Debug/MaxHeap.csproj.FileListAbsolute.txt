@@ -1,0 +1,7 @@
+C:\Users\Brian\source\repos\Data Structures II\MaxHeap\MaxHeap\bin\Debug\MaxHeap.exe.config
+C:\Users\Brian\source\repos\Data Structures II\MaxHeap\MaxHeap\bin\Debug\MaxHeap.exe
+C:\Users\Brian\source\repos\Data Structures II\MaxHeap\MaxHeap\bin\Debug\MaxHeap.pdb
+C:\Users\Brian\source\repos\Data Structures II\MaxHeap\MaxHeap\obj\Debug\MaxHeap.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures II\MaxHeap\MaxHeap\obj\Debug\MaxHeap.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Data Structures II\MaxHeap\MaxHeap\obj\Debug\MaxHeap.exe
+C:\Users\Brian\source\repos\Data Structures II\MaxHeap\MaxHeap\obj\Debug\MaxHeap.pdb

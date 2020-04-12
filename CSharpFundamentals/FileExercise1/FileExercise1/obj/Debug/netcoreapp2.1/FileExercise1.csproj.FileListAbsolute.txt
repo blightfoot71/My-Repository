@@ -1,0 +1,11 @@
+C:\Users\Brian\source\repos\FileExercise1\FileExercise1\bin\Debug\netcoreapp2.1\FileExercise1.deps.json
+C:\Users\Brian\source\repos\FileExercise1\FileExercise1\bin\Debug\netcoreapp2.1\FileExercise1.runtimeconfig.json
+C:\Users\Brian\source\repos\FileExercise1\FileExercise1\bin\Debug\netcoreapp2.1\FileExercise1.runtimeconfig.dev.json
+C:\Users\Brian\source\repos\FileExercise1\FileExercise1\bin\Debug\netcoreapp2.1\FileExercise1.dll
+C:\Users\Brian\source\repos\FileExercise1\FileExercise1\bin\Debug\netcoreapp2.1\FileExercise1.pdb
+C:\Users\Brian\source\repos\FileExercise1\FileExercise1\obj\Debug\netcoreapp2.1\FileExercise1.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\FileExercise1\FileExercise1\obj\Debug\netcoreapp2.1\FileExercise1.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\FileExercise1\FileExercise1\obj\Debug\netcoreapp2.1\FileExercise1.AssemblyInfoInputs.cache
+C:\Users\Brian\source\repos\FileExercise1\FileExercise1\obj\Debug\netcoreapp2.1\FileExercise1.AssemblyInfo.cs
+C:\Users\Brian\source\repos\FileExercise1\FileExercise1\obj\Debug\netcoreapp2.1\FileExercise1.dll
+C:\Users\Brian\source\repos\FileExercise1\FileExercise1\obj\Debug\netcoreapp2.1\FileExercise1.pdb

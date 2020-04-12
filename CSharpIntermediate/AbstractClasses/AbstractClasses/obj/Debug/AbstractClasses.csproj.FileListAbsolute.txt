@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\CSharpIntermediate\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\Brian\source\repos\CSharpIntermediate\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\AbstractClasses\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\Brian\source\repos\CSharpIntermediate\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\CSharpIntermediate\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\AbstractClasses\AbstractClasses\obj\Debug\AbstractClasses.pdb

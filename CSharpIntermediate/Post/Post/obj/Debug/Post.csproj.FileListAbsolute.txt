@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\CSharpIntermediate\Post\Post\bin\Debug\Post.exe.config
+C:\Users\Brian\source\repos\CSharpIntermediate\Post\Post\bin\Debug\Post.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\Post\Post\bin\Debug\Post.pdb
+C:\Users\Brian\source\repos\CSharpIntermediate\Post\Post\obj\Debug\Post.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\CSharpIntermediate\Post\Post\obj\Debug\Post.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\Post\Post\obj\Debug\Post.pdb

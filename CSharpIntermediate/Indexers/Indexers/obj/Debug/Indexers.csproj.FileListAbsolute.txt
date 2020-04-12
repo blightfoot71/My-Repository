@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\CSharpIntermediate\Indexers\Indexers\bin\Debug\Indexers.exe.config
+C:\Users\Brian\source\repos\CSharpIntermediate\Indexers\Indexers\bin\Debug\Indexers.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\Indexers\Indexers\bin\Debug\Indexers.pdb
+C:\Users\Brian\source\repos\CSharpIntermediate\Indexers\Indexers\obj\Debug\Indexers.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\CSharpIntermediate\Indexers\Indexers\obj\Debug\Indexers.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\Indexers\Indexers\obj\Debug\Indexers.pdb

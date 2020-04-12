@@ -1,0 +1,20 @@
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequeunt\HashTableExercisesMostFrequeunt\bin\Debug\HashTableExercisesMostFrequeunt.exe.config
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequeunt\HashTableExercisesMostFrequeunt\bin\Debug\HashTableExercisesMostFrequeunt.exe
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequeunt\HashTableExercisesMostFrequeunt\bin\Debug\HashTableExercisesMostFrequeunt.pdb
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequeunt\HashTableExercisesMostFrequeunt\obj\Debug\HashTableExercisesMostFrequent.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequeunt\HashTableExercisesMostFrequeunt\obj\Debug\HashTableExercisesMostFrequeunt.exe
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequeunt\HashTableExercisesMostFrequeunt\obj\Debug\HashTableExercisesMostFrequeunt.pdb
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequent\HashTableExercisesMostFrequent\bin\Debug\HashTableExercisesMostFrequent.exe.config
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequent\HashTableExercisesMostFrequent\bin\Debug\HashTableExercisesMostFrequent.exe
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequent\HashTableExercisesMostFrequent\bin\Debug\HashTableExercisesMostFrequent.pdb
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequent\HashTableExercisesMostFrequent\obj\Debug\HashTableExercisesMostFrequent.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequent\HashTableExercisesMostFrequent\obj\Debug\HashTableExercisesMostFrequent.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequent\HashTableExercisesMostFrequent\obj\Debug\HashTableExercisesMostFrequent.exe
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequent\HashTableExercisesMostFrequent\obj\Debug\HashTableExercisesMostFrequent.pdb
+C:\Users\Brian\source\repos\Data Structures I\HashTableExercisesMostFrequent\HashTableExercisesMostFrequent\bin\Debug\HashTableExercisesMostFrequent.exe.config
+C:\Users\Brian\source\repos\Data Structures I\HashTableExercisesMostFrequent\HashTableExercisesMostFrequent\bin\Debug\HashTableExercisesMostFrequent.exe
+C:\Users\Brian\source\repos\Data Structures I\HashTableExercisesMostFrequent\HashTableExercisesMostFrequent\bin\Debug\HashTableExercisesMostFrequent.pdb
+C:\Users\Brian\source\repos\Data Structures I\HashTableExercisesMostFrequent\HashTableExercisesMostFrequent\obj\Debug\HashTableExercisesMostFrequent.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures I\HashTableExercisesMostFrequent\HashTableExercisesMostFrequent\obj\Debug\HashTableExercisesMostFrequent.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Data Structures I\HashTableExercisesMostFrequent\HashTableExercisesMostFrequent\obj\Debug\HashTableExercisesMostFrequent.exe
+C:\Users\Brian\source\repos\Data Structures I\HashTableExercisesMostFrequent\HashTableExercisesMostFrequent\obj\Debug\HashTableExercisesMostFrequent.pdb

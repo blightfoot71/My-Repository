@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\CountingTime\CountingTime\bin\Debug\CountingTime.exe.config
+C:\Users\Brian\source\repos\CountingTime\CountingTime\bin\Debug\CountingTime.exe
+C:\Users\Brian\source\repos\CountingTime\CountingTime\bin\Debug\CountingTime.pdb
+C:\Users\Brian\source\repos\CountingTime\CountingTime\obj\Debug\CountingTime.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\CountingTime\CountingTime\obj\Debug\CountingTime.exe
+C:\Users\Brian\source\repos\CountingTime\CountingTime\obj\Debug\CountingTime.pdb

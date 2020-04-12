@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\CSharpIntermediate\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+C:\Users\Brian\source\repos\CSharpIntermediate\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+C:\Users\Brian\source\repos\CSharpIntermediate\StopWatch\StopWatch\obj\Debug\StopWatch.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\CSharpIntermediate\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\StopWatch\StopWatch\obj\Debug\StopWatch.pdb

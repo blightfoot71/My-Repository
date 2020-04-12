@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search", "LinearSearch\Search.csproj", "{38CDAD69-32C3-43B9-93E1-D22A7FE1A062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38CDAD69-32C3-43B9-93E1-D22A7FE1A062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38CDAD69-32C3-43B9-93E1-D22A7FE1A062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38CDAD69-32C3-43B9-93E1-D22A7FE1A062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38CDAD69-32C3-43B9-93E1-D22A7FE1A062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58CB52A0-5CAF-44A7-8959-0B5257072E6C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Brian\source\repos\Properties\Properties\bin\Release\netcoreapp2.1\Properties.deps.json
+C:\Users\Brian\source\repos\Properties\Properties\bin\Release\netcoreapp2.1\Properties.runtimeconfig.json
+C:\Users\Brian\source\repos\Properties\Properties\bin\Release\netcoreapp2.1\Properties.runtimeconfig.dev.json
+C:\Users\Brian\source\repos\Properties\Properties\bin\Release\netcoreapp2.1\Properties.dll
+C:\Users\Brian\source\repos\Properties\Properties\bin\Release\netcoreapp2.1\Properties.pdb
+C:\Users\Brian\source\repos\Properties\Properties\obj\Release\netcoreapp2.1\Properties.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Properties\Properties\obj\Release\netcoreapp2.1\Properties.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Properties\Properties\obj\Release\netcoreapp2.1\Properties.AssemblyInfoInputs.cache
+C:\Users\Brian\source\repos\Properties\Properties\obj\Release\netcoreapp2.1\Properties.AssemblyInfo.cs
+C:\Users\Brian\source\repos\Properties\Properties\obj\Release\netcoreapp2.1\Properties.dll
+C:\Users\Brian\source\repos\Properties\Properties\obj\Release\netcoreapp2.1\Properties.pdb

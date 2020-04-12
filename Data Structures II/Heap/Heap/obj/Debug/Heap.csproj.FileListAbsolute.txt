@@ -1,0 +1,7 @@
+C:\Users\Brian\source\repos\Data Structures II\Heap\Heap\obj\Debug\Heap.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures II\Heap\Heap\obj\Debug\Heap.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Data Structures II\Heap\Heap\bin\Debug\Heap.exe.config
+C:\Users\Brian\source\repos\Data Structures II\Heap\Heap\bin\Debug\Heap.exe
+C:\Users\Brian\source\repos\Data Structures II\Heap\Heap\bin\Debug\Heap.pdb
+C:\Users\Brian\source\repos\Data Structures II\Heap\Heap\obj\Debug\Heap.exe
+C:\Users\Brian\source\repos\Data Structures II\Heap\Heap\obj\Debug\Heap.pdb

@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\CSharpIntermediate\DataBaseConnection_Exercise\DataBaseConnection_Exercise\bin\Debug\DataBaseConnection_Exercise.exe.config
+C:\Users\Brian\source\repos\CSharpIntermediate\DataBaseConnection_Exercise\DataBaseConnection_Exercise\bin\Debug\DataBaseConnection_Exercise.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\DataBaseConnection_Exercise\DataBaseConnection_Exercise\bin\Debug\DataBaseConnection_Exercise.pdb
+C:\Users\Brian\source\repos\CSharpIntermediate\DataBaseConnection_Exercise\DataBaseConnection_Exercise\obj\Debug\DataBaseConnection_Exercise.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\CSharpIntermediate\DataBaseConnection_Exercise\DataBaseConnection_Exercise\obj\Debug\DataBaseConnection_Exercise.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\DataBaseConnection_Exercise\DataBaseConnection_Exercise\obj\Debug\DataBaseConnection_Exercise.pdb

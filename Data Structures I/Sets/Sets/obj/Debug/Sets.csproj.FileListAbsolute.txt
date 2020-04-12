@@ -1,0 +1,7 @@
+C:\Users\Brian\source\repos\Data Structures I\Sets\Sets\bin\Debug\Sets.exe.config
+C:\Users\Brian\source\repos\Data Structures I\Sets\Sets\bin\Debug\Sets.exe
+C:\Users\Brian\source\repos\Data Structures I\Sets\Sets\bin\Debug\Sets.pdb
+C:\Users\Brian\source\repos\Data Structures I\Sets\Sets\obj\Debug\Sets.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures I\Sets\Sets\obj\Debug\Sets.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Data Structures I\Sets\Sets\obj\Debug\Sets.exe
+C:\Users\Brian\source\repos\Data Structures I\Sets\Sets\obj\Debug\Sets.pdb

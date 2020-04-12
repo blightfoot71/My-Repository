@@ -1,0 +1,14 @@
+C:\Users\Brian\source\repos\CSharpAdvanced\Async3\Async3\bin\Debug\Async3.exe.config
+C:\Users\Brian\source\repos\CSharpAdvanced\Async3\Async3\bin\Debug\Async3.exe
+C:\Users\Brian\source\repos\CSharpAdvanced\Async3\Async3\bin\Debug\Async3.pdb
+C:\Users\Brian\source\repos\CSharpAdvanced\Async3\Async3\obj\Debug\MainWindow.g.cs
+C:\Users\Brian\source\repos\CSharpAdvanced\Async3\Async3\obj\Debug\App.g.cs
+C:\Users\Brian\source\repos\CSharpAdvanced\Async3\Async3\obj\Debug\Async3_MarkupCompile.cache
+C:\Users\Brian\source\repos\CSharpAdvanced\Async3\Async3\obj\Debug\Async3_MarkupCompile.lref
+C:\Users\Brian\source\repos\CSharpAdvanced\Async3\Async3\obj\Debug\MainWindow.baml
+C:\Users\Brian\source\repos\CSharpAdvanced\Async3\Async3\obj\Debug\Async3.g.resources
+C:\Users\Brian\source\repos\CSharpAdvanced\Async3\Async3\obj\Debug\Async3.Properties.Resources.resources
+C:\Users\Brian\source\repos\CSharpAdvanced\Async3\Async3\obj\Debug\Async3.csproj.GenerateResource.cache
+C:\Users\Brian\source\repos\CSharpAdvanced\Async3\Async3\obj\Debug\Async3.exe
+C:\Users\Brian\source\repos\CSharpAdvanced\Async3\Async3\obj\Debug\Async3.pdb
+C:\Users\Brian\source\repos\CSharpAdvanced\Async3\Async3\obj\Debug\Async3.csprojAssemblyReference.cache

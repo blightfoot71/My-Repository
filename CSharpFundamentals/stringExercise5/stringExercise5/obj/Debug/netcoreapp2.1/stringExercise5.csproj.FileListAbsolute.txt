@@ -1,0 +1,11 @@
+C:\Users\Brian\source\repos\stringExercise5\stringExercise5\bin\Debug\netcoreapp2.1\stringExercise5.deps.json
+C:\Users\Brian\source\repos\stringExercise5\stringExercise5\bin\Debug\netcoreapp2.1\stringExercise5.runtimeconfig.json
+C:\Users\Brian\source\repos\stringExercise5\stringExercise5\bin\Debug\netcoreapp2.1\stringExercise5.runtimeconfig.dev.json
+C:\Users\Brian\source\repos\stringExercise5\stringExercise5\bin\Debug\netcoreapp2.1\stringExercise5.dll
+C:\Users\Brian\source\repos\stringExercise5\stringExercise5\bin\Debug\netcoreapp2.1\stringExercise5.pdb
+C:\Users\Brian\source\repos\stringExercise5\stringExercise5\obj\Debug\netcoreapp2.1\stringExercise5.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\stringExercise5\stringExercise5\obj\Debug\netcoreapp2.1\stringExercise5.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\stringExercise5\stringExercise5\obj\Debug\netcoreapp2.1\stringExercise5.AssemblyInfoInputs.cache
+C:\Users\Brian\source\repos\stringExercise5\stringExercise5\obj\Debug\netcoreapp2.1\stringExercise5.AssemblyInfo.cs
+C:\Users\Brian\source\repos\stringExercise5\stringExercise5\obj\Debug\netcoreapp2.1\stringExercise5.dll
+C:\Users\Brian\source\repos\stringExercise5\stringExercise5\obj\Debug\netcoreapp2.1\stringExercise5.pdb

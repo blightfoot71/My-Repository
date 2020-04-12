@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\Data Structures III\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe.config
+C:\Users\Brian\source\repos\Data Structures III\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe
+C:\Users\Brian\source\repos\Data Structures III\LinearSearch\LinearSearch\bin\Debug\LinearSearch.pdb
+C:\Users\Brian\source\repos\Data Structures III\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures III\LinearSearch\LinearSearch\obj\Debug\LinearSearch.exe
+C:\Users\Brian\source\repos\Data Structures III\LinearSearch\LinearSearch\obj\Debug\LinearSearch.pdb

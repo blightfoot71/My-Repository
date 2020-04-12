@@ -1,0 +1,7 @@
+C:\Users\Brian\source\repos\python\QueueWithTwoStacks\QueueWithTwoStacks\bin\Debug\QueueWithTwoStacks.exe.config
+C:\Users\Brian\source\repos\python\QueueWithTwoStacks\QueueWithTwoStacks\bin\Debug\QueueWithTwoStacks.exe
+C:\Users\Brian\source\repos\python\QueueWithTwoStacks\QueueWithTwoStacks\bin\Debug\QueueWithTwoStacks.pdb
+C:\Users\Brian\source\repos\python\QueueWithTwoStacks\QueueWithTwoStacks\obj\Debug\QueueWithTwoStacks.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\python\QueueWithTwoStacks\QueueWithTwoStacks\obj\Debug\QueueWithTwoStacks.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\python\QueueWithTwoStacks\QueueWithTwoStacks\obj\Debug\QueueWithTwoStacks.exe
+C:\Users\Brian\source\repos\python\QueueWithTwoStacks\QueueWithTwoStacks\obj\Debug\QueueWithTwoStacks.pdb

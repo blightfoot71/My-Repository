@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\Data Structures III\BucketSort\BucketSort\bin\Debug\BucketSort.exe.config
+C:\Users\Brian\source\repos\Data Structures III\BucketSort\BucketSort\bin\Debug\BucketSort.exe
+C:\Users\Brian\source\repos\Data Structures III\BucketSort\BucketSort\bin\Debug\BucketSort.pdb
+C:\Users\Brian\source\repos\Data Structures III\BucketSort\BucketSort\obj\Debug\BucketSort.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures III\BucketSort\BucketSort\obj\Debug\BucketSort.exe
+C:\Users\Brian\source\repos\Data Structures III\BucketSort\BucketSort\obj\Debug\BucketSort.pdb

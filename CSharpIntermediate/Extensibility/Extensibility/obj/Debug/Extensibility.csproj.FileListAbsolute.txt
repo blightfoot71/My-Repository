@@ -1,0 +1,12 @@
+C:\Users\Brian\source\repos\Extensibility\Extensibility\bin\Debug\Extensibility.exe.config
+C:\Users\Brian\source\repos\Extensibility\Extensibility\bin\Debug\Extensibility.exe
+C:\Users\Brian\source\repos\Extensibility\Extensibility\bin\Debug\Extensibility.pdb
+C:\Users\Brian\source\repos\Extensibility\Extensibility\obj\Debug\Extensibility.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Extensibility\Extensibility\obj\Debug\Extensibility.exe
+C:\Users\Brian\source\repos\Extensibility\Extensibility\obj\Debug\Extensibility.pdb
+C:\Users\Brian\source\repos\CSharpIntermediate\Extensibility\Extensibility\bin\Debug\Extensibility.exe.config
+C:\Users\Brian\source\repos\CSharpIntermediate\Extensibility\Extensibility\bin\Debug\Extensibility.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\Extensibility\Extensibility\bin\Debug\Extensibility.pdb
+C:\Users\Brian\source\repos\CSharpIntermediate\Extensibility\Extensibility\obj\Debug\Extensibility.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\CSharpIntermediate\Extensibility\Extensibility\obj\Debug\Extensibility.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\Extensibility\Extensibility\obj\Debug\Extensibility.pdb

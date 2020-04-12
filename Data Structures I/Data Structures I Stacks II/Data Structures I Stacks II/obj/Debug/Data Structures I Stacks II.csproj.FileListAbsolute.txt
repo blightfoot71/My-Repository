@@ -1,0 +1,7 @@
+C:\Users\Brian\source\repos\Data Structures I Stacks II\Data Structures I Stacks II\bin\Debug\Data Structures I Stacks II.exe.config
+C:\Users\Brian\source\repos\Data Structures I Stacks II\Data Structures I Stacks II\bin\Debug\Data Structures I Stacks II.exe
+C:\Users\Brian\source\repos\Data Structures I Stacks II\Data Structures I Stacks II\bin\Debug\Data Structures I Stacks II.pdb
+C:\Users\Brian\source\repos\Data Structures I Stacks II\Data Structures I Stacks II\obj\Debug\Data Structures I Stacks II.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures I Stacks II\Data Structures I Stacks II\obj\Debug\Data Structures I Stacks II.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Data Structures I Stacks II\Data Structures I Stacks II\obj\Debug\Data Structures I Stacks II.exe
+C:\Users\Brian\source\repos\Data Structures I Stacks II\Data Structures I Stacks II\obj\Debug\Data Structures I Stacks II.pdb

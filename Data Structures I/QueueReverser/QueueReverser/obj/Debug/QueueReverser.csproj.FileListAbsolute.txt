@@ -1,0 +1,7 @@
+C:\Users\Brian\source\repos\QueueReverser\QueueReverser\bin\Debug\QueueReverser.exe.config
+C:\Users\Brian\source\repos\QueueReverser\QueueReverser\bin\Debug\QueueReverser.exe
+C:\Users\Brian\source\repos\QueueReverser\QueueReverser\bin\Debug\QueueReverser.pdb
+C:\Users\Brian\source\repos\QueueReverser\QueueReverser\obj\Debug\QueueReverser.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\QueueReverser\QueueReverser\obj\Debug\QueueReverser.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\QueueReverser\QueueReverser\obj\Debug\QueueReverser.exe
+C:\Users\Brian\source\repos\QueueReverser\QueueReverser\obj\Debug\QueueReverser.pdb

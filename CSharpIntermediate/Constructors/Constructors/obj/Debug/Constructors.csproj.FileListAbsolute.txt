@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\CSharpIntermediate\Constructors\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\Brian\source\repos\CSharpIntermediate\Constructors\Constructors\bin\Debug\Constructors.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\Constructors\Constructors\bin\Debug\Constructors.pdb
+C:\Users\Brian\source\repos\CSharpIntermediate\Constructors\Constructors\obj\Debug\Constructors.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\CSharpIntermediate\Constructors\Constructors\obj\Debug\Constructors.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\Constructors\Constructors\obj\Debug\Constructors.pdb

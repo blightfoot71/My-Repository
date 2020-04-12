@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testability", "Testability\Testability.csproj", "{646A0F9C-8C15-44DB-9C45-CC9D33923A7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testability.Tests", "Testability.Tests\Testability.Tests.csproj", "{EAE79054-1308-4C23-BF99-7DA03D6474EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646A0F9C-8C15-44DB-9C45-CC9D33923A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646A0F9C-8C15-44DB-9C45-CC9D33923A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646A0F9C-8C15-44DB-9C45-CC9D33923A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646A0F9C-8C15-44DB-9C45-CC9D33923A7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE79054-1308-4C23-BF99-7DA03D6474EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE79054-1308-4C23-BF99-7DA03D6474EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE79054-1308-4C23-BF99-7DA03D6474EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE79054-1308-4C23-BF99-7DA03D6474EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {793D1B93-BAC9-45D6-8C80-1C24C2355BA1}
+	EndGlobalSection
+EndGlobal

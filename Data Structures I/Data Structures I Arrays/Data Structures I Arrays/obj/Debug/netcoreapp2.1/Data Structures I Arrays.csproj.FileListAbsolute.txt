@@ -1,0 +1,11 @@
+C:\Users\Brian\source\repos\Data Structures I Arrays\Data Structures I Arrays\bin\Debug\netcoreapp2.1\Data Structures I Arrays.deps.json
+C:\Users\Brian\source\repos\Data Structures I Arrays\Data Structures I Arrays\bin\Debug\netcoreapp2.1\Data Structures I Arrays.runtimeconfig.json
+C:\Users\Brian\source\repos\Data Structures I Arrays\Data Structures I Arrays\bin\Debug\netcoreapp2.1\Data Structures I Arrays.runtimeconfig.dev.json
+C:\Users\Brian\source\repos\Data Structures I Arrays\Data Structures I Arrays\bin\Debug\netcoreapp2.1\Data Structures I Arrays.dll
+C:\Users\Brian\source\repos\Data Structures I Arrays\Data Structures I Arrays\bin\Debug\netcoreapp2.1\Data Structures I Arrays.pdb
+C:\Users\Brian\source\repos\Data Structures I Arrays\Data Structures I Arrays\obj\Debug\netcoreapp2.1\Data Structures I Arrays.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures I Arrays\Data Structures I Arrays\obj\Debug\netcoreapp2.1\Data Structures I Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Data Structures I Arrays\Data Structures I Arrays\obj\Debug\netcoreapp2.1\Data Structures I Arrays.AssemblyInfoInputs.cache
+C:\Users\Brian\source\repos\Data Structures I Arrays\Data Structures I Arrays\obj\Debug\netcoreapp2.1\Data Structures I Arrays.AssemblyInfo.cs
+C:\Users\Brian\source\repos\Data Structures I Arrays\Data Structures I Arrays\obj\Debug\netcoreapp2.1\Data Structures I Arrays.dll
+C:\Users\Brian\source\repos\Data Structures I Arrays\Data Structures I Arrays\obj\Debug\netcoreapp2.1\Data Structures I Arrays.pdb

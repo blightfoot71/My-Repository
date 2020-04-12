@@ -1,0 +1,7 @@
+C:\Users\Brian\source\repos\StackWithTwoQueues\StackWithTwoQueues\bin\Debug\StackWithTwoQueues.exe.config
+C:\Users\Brian\source\repos\StackWithTwoQueues\StackWithTwoQueues\bin\Debug\StackWithTwoQueues.exe
+C:\Users\Brian\source\repos\StackWithTwoQueues\StackWithTwoQueues\bin\Debug\StackWithTwoQueues.pdb
+C:\Users\Brian\source\repos\StackWithTwoQueues\StackWithTwoQueues\obj\Debug\StackWithTwoQueues.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\StackWithTwoQueues\StackWithTwoQueues\obj\Debug\StackWithTwoQueues.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\StackWithTwoQueues\StackWithTwoQueues\obj\Debug\StackWithTwoQueues.exe
+C:\Users\Brian\source\repos\StackWithTwoQueues\StackWithTwoQueues\obj\Debug\StackWithTwoQueues.pdb

@@ -1,0 +1,12 @@
+C:\Projects\DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.exe.config
+C:\Projects\DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.exe
+C:\Projects\DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.pdb
+C:\Projects\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.csprojResolveAssemblyReference.cache
+C:\Projects\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.exe
+C:\Projects\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.pdb
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.exe.config
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.exe
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\DynamicBinding\DynamicBinding\bin\Debug\DynamicBinding.pdb
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.exe
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\DynamicBinding\DynamicBinding\obj\Debug\DynamicBinding.pdb

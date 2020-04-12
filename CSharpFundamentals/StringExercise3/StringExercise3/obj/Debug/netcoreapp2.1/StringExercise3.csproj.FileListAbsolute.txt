@@ -1,0 +1,11 @@
+C:\Users\Brian\source\repos\StringExercise3\StringExercise3\bin\Debug\netcoreapp2.1\StringExercise3.deps.json
+C:\Users\Brian\source\repos\StringExercise3\StringExercise3\bin\Debug\netcoreapp2.1\StringExercise3.runtimeconfig.json
+C:\Users\Brian\source\repos\StringExercise3\StringExercise3\bin\Debug\netcoreapp2.1\StringExercise3.runtimeconfig.dev.json
+C:\Users\Brian\source\repos\StringExercise3\StringExercise3\bin\Debug\netcoreapp2.1\StringExercise3.dll
+C:\Users\Brian\source\repos\StringExercise3\StringExercise3\bin\Debug\netcoreapp2.1\StringExercise3.pdb
+C:\Users\Brian\source\repos\StringExercise3\StringExercise3\obj\Debug\netcoreapp2.1\StringExercise3.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\StringExercise3\StringExercise3\obj\Debug\netcoreapp2.1\StringExercise3.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\StringExercise3\StringExercise3\obj\Debug\netcoreapp2.1\StringExercise3.AssemblyInfoInputs.cache
+C:\Users\Brian\source\repos\StringExercise3\StringExercise3\obj\Debug\netcoreapp2.1\StringExercise3.AssemblyInfo.cs
+C:\Users\Brian\source\repos\StringExercise3\StringExercise3\obj\Debug\netcoreapp2.1\StringExercise3.dll
+C:\Users\Brian\source\repos\StringExercise3\StringExercise3\obj\Debug\netcoreapp2.1\StringExercise3.pdb

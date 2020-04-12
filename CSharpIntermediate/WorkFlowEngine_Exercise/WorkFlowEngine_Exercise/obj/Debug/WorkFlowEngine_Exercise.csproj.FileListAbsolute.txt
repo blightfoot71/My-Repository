@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\CSharpIntermediate\WorkFlowEngine_Exercise\WorkFlowEngine_Exercise\bin\Debug\WorkFlowEngine_Exercise.exe.config
+C:\Users\Brian\source\repos\CSharpIntermediate\WorkFlowEngine_Exercise\WorkFlowEngine_Exercise\bin\Debug\WorkFlowEngine_Exercise.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\WorkFlowEngine_Exercise\WorkFlowEngine_Exercise\bin\Debug\WorkFlowEngine_Exercise.pdb
+C:\Users\Brian\source\repos\CSharpIntermediate\WorkFlowEngine_Exercise\WorkFlowEngine_Exercise\obj\Debug\WorkFlowEngine_Exercise.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\CSharpIntermediate\WorkFlowEngine_Exercise\WorkFlowEngine_Exercise\obj\Debug\WorkFlowEngine_Exercise.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\WorkFlowEngine_Exercise\WorkFlowEngine_Exercise\obj\Debug\WorkFlowEngine_Exercise.pdb

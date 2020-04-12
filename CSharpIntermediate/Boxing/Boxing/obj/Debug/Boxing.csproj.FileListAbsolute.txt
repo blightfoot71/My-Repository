@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\CSharpIntermediate\Boxing\Boxing\bin\Debug\Boxing.exe.config
+C:\Users\Brian\source\repos\CSharpIntermediate\Boxing\Boxing\bin\Debug\Boxing.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\Boxing\Boxing\bin\Debug\Boxing.pdb
+C:\Users\Brian\source\repos\CSharpIntermediate\Boxing\Boxing\obj\Debug\Boxing.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\CSharpIntermediate\Boxing\Boxing\obj\Debug\Boxing.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\Boxing\Boxing\obj\Debug\Boxing.pdb

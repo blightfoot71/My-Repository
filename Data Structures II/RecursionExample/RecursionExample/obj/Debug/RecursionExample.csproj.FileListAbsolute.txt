@@ -1,0 +1,7 @@
+C:\Users\Brian\source\repos\Data Structures II\RecursionExample\RecursionExample\bin\Debug\RecursionExample.exe.config
+C:\Users\Brian\source\repos\Data Structures II\RecursionExample\RecursionExample\bin\Debug\RecursionExample.exe
+C:\Users\Brian\source\repos\Data Structures II\RecursionExample\RecursionExample\bin\Debug\RecursionExample.pdb
+C:\Users\Brian\source\repos\Data Structures II\RecursionExample\RecursionExample\obj\Debug\RecursionExample.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures II\RecursionExample\RecursionExample\obj\Debug\RecursionExample.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Data Structures II\RecursionExample\RecursionExample\obj\Debug\RecursionExample.exe
+C:\Users\Brian\source\repos\Data Structures II\RecursionExample\RecursionExample\obj\Debug\RecursionExample.pdb

@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\CSharpIntermediate\Stack_Exercise\Stack_Exercise\bin\Debug\Stack_Exercise.exe.config
+C:\Users\Brian\source\repos\CSharpIntermediate\Stack_Exercise\Stack_Exercise\bin\Debug\Stack_Exercise.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\Stack_Exercise\Stack_Exercise\bin\Debug\Stack_Exercise.pdb
+C:\Users\Brian\source\repos\CSharpIntermediate\Stack_Exercise\Stack_Exercise\obj\Debug\Stack_Exercise.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\CSharpIntermediate\Stack_Exercise\Stack_Exercise\obj\Debug\Stack_Exercise.exe
+C:\Users\Brian\source\repos\CSharpIntermediate\Stack_Exercise\Stack_Exercise\obj\Debug\Stack_Exercise.pdb

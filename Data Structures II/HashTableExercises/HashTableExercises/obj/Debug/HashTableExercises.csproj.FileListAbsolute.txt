@@ -1,0 +1,14 @@
+C:\Users\Brian\source\repos\HashTableExercises\HashTableExercises\bin\Debug\HashTableExercises.exe.config
+C:\Users\Brian\source\repos\HashTableExercises\HashTableExercises\bin\Debug\HashTableExercises.exe
+C:\Users\Brian\source\repos\HashTableExercises\HashTableExercises\bin\Debug\HashTableExercises.pdb
+C:\Users\Brian\source\repos\HashTableExercises\HashTableExercises\obj\Debug\HashTableExercises.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\HashTableExercises\HashTableExercises\obj\Debug\HashTableExercises.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\HashTableExercises\HashTableExercises\obj\Debug\HashTableExercises.exe
+C:\Users\Brian\source\repos\HashTableExercises\HashTableExercises\obj\Debug\HashTableExercises.pdb
+C:\Users\Brian\source\repos\Data Structures II\HashTableExercises\HashTableExercises\bin\Debug\HashTableExercises.exe.config
+C:\Users\Brian\source\repos\Data Structures II\HashTableExercises\HashTableExercises\bin\Debug\HashTableExercises.exe
+C:\Users\Brian\source\repos\Data Structures II\HashTableExercises\HashTableExercises\bin\Debug\HashTableExercises.pdb
+C:\Users\Brian\source\repos\Data Structures II\HashTableExercises\HashTableExercises\obj\Debug\HashTableExercises.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures II\HashTableExercises\HashTableExercises\obj\Debug\HashTableExercises.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Data Structures II\HashTableExercises\HashTableExercises\obj\Debug\HashTableExercises.exe
+C:\Users\Brian\source\repos\Data Structures II\HashTableExercises\HashTableExercises\obj\Debug\HashTableExercises.pdb

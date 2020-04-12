@@ -1,0 +1,7 @@
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequeunt\HashTableExercisesMostFrequeunt\bin\Debug\HashTableExercisesMostFrequeunt.exe.config
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequeunt\HashTableExercisesMostFrequeunt\bin\Debug\HashTableExercisesMostFrequeunt.exe
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequeunt\HashTableExercisesMostFrequeunt\bin\Debug\HashTableExercisesMostFrequeunt.pdb
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequeunt\HashTableExercisesMostFrequeunt\obj\Debug\HashTableExercisesMostFrequeunt.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequeunt\HashTableExercisesMostFrequeunt\obj\Debug\HashTableExercisesMostFrequeunt.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequeunt\HashTableExercisesMostFrequeunt\obj\Debug\HashTableExercisesMostFrequeunt.exe
+C:\Users\Brian\source\repos\HashTableExercisesMostFrequeunt\HashTableExercisesMostFrequeunt\obj\Debug\HashTableExercisesMostFrequeunt.pdb

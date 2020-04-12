@@ -1,0 +1,12 @@
+C:\Projects\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Projects\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Projects\Generics\Generics\bin\Debug\Generics.exe
+C:\Projects\Generics\Generics\bin\Debug\Generics.pdb
+C:\Projects\Generics\Generics\obj\Debug\Generics.exe
+C:\Projects\Generics\Generics\obj\Debug\Generics.pdb
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\Generics\Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\Generics\Generics\obj\Debug\Generics.pdb

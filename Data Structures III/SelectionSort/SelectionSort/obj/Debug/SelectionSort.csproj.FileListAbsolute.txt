@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\Data Structures III\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\Brian\source\repos\Data Structures III\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\Brian\source\repos\Data Structures III\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\Brian\source\repos\Data Structures III\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures III\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\Brian\source\repos\Data Structures III\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb

@@ -1,0 +1,7 @@
+C:\Users\Brian\source\repos\Data Structures II\trie\trie\bin\Debug\trie.exe.config
+C:\Users\Brian\source\repos\Data Structures II\trie\trie\bin\Debug\trie.exe
+C:\Users\Brian\source\repos\Data Structures II\trie\trie\bin\Debug\trie.pdb
+C:\Users\Brian\source\repos\Data Structures II\trie\trie\obj\Debug\trie.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures II\trie\trie\obj\Debug\trie.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Data Structures II\trie\trie\obj\Debug\trie.exe
+C:\Users\Brian\source\repos\Data Structures II\trie\trie\obj\Debug\trie.pdb

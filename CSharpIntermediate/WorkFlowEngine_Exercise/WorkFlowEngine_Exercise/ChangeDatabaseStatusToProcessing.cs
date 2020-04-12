@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace WorkFlowEngine_Exercise
+{
+    //public class ChangeDatabaseStatusToProcessing : IActivities
+    //{
+    //    public void Execute()
+    //    {
+    //        Console.WriteLine("Changing video record in database to Processing...");
+    //    }
+    //}
+}

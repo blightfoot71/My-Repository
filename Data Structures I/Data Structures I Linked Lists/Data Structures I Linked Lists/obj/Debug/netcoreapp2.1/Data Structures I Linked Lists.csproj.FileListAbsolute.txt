@@ -1,0 +1,11 @@
+C:\Users\Brian\source\repos\Data Structures I Linked Lists\Data Structures I Linked Lists\bin\Debug\netcoreapp2.1\Data Structures I Linked Lists.deps.json
+C:\Users\Brian\source\repos\Data Structures I Linked Lists\Data Structures I Linked Lists\bin\Debug\netcoreapp2.1\Data Structures I Linked Lists.runtimeconfig.json
+C:\Users\Brian\source\repos\Data Structures I Linked Lists\Data Structures I Linked Lists\bin\Debug\netcoreapp2.1\Data Structures I Linked Lists.runtimeconfig.dev.json
+C:\Users\Brian\source\repos\Data Structures I Linked Lists\Data Structures I Linked Lists\bin\Debug\netcoreapp2.1\Data Structures I Linked Lists.dll
+C:\Users\Brian\source\repos\Data Structures I Linked Lists\Data Structures I Linked Lists\bin\Debug\netcoreapp2.1\Data Structures I Linked Lists.pdb
+C:\Users\Brian\source\repos\Data Structures I Linked Lists\Data Structures I Linked Lists\obj\Debug\netcoreapp2.1\Data Structures I Linked Lists.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures I Linked Lists\Data Structures I Linked Lists\obj\Debug\netcoreapp2.1\Data Structures I Linked Lists.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\Data Structures I Linked Lists\Data Structures I Linked Lists\obj\Debug\netcoreapp2.1\Data Structures I Linked Lists.AssemblyInfoInputs.cache
+C:\Users\Brian\source\repos\Data Structures I Linked Lists\Data Structures I Linked Lists\obj\Debug\netcoreapp2.1\Data Structures I Linked Lists.AssemblyInfo.cs
+C:\Users\Brian\source\repos\Data Structures I Linked Lists\Data Structures I Linked Lists\obj\Debug\netcoreapp2.1\Data Structures I Linked Lists.dll
+C:\Users\Brian\source\repos\Data Structures I Linked Lists\Data Structures I Linked Lists\obj\Debug\netcoreapp2.1\Data Structures I Linked Lists.pdb

@@ -1,0 +1,62 @@
+<form #f='ngForm' (ngSubmit)="submit(f)">
+    <div ngModelGroup="course">
+        <div class="form-group">
+            <label for="courseName">Course Name</label>
+            <input 
+                required
+                minlength="3"
+                ngModel
+                name="courseName"
+                #courseName="ngModel"
+                id="courseName"
+                type="text"
+                class="form-control">
+                <div 
+                    class="alert alert-danger"
+                    *ngIf="courseName.touched && !courseName.valid">
+                    <div *ngIf="courseName.errors.required">
+                        Course Name Required.
+                    </div>
+                    <div *ngIf="courseName.errors.minlength">
+                        Course name should be at least {{courseName.errors.minlength.requiredLength }} characters.
+                    </div>
+                </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="courseCategories">Category</label>
+        <select 
+            required 
+            ngModel 
+            name="courseCategories" 
+            #category="ngModel"
+            id="courseCategories" 
+            class="form-control">
+                <option value=""></option>
+                <option *ngFor="let c of courseCategories" 
+                [value]="c.id">
+                    {{ c.name }}
+                </option>
+        </select>
+        <div
+            class="alert alert-danger"
+            *ngIf="category.touched && !category.valid">
+                Category Field is Required.
+        </div>
+    </div>
+    <div class="checkbox">
+        <label>
+            <input 
+                type="checkbox" 
+                ngModel 
+                name="isGuaranteed"
+                > 30-day money-back guarantee
+        </label>
+    </div>
+    <p>
+        {{ f.value | json }}
+    </p>
+    <button class="btn btn-primary" [disabled]="!f.valid">
+        Create
+    </button>
+</form>

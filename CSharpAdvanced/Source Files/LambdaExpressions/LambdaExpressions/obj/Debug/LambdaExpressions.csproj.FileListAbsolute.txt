@@ -1,0 +1,12 @@
+C:\Projects\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+C:\Projects\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+C:\Projects\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+C:\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csprojResolveAssemblyReference.cache
+C:\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+C:\Projects\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+C:\Users\Brian\source\repos\CSharpAdvanced\Source Files\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb

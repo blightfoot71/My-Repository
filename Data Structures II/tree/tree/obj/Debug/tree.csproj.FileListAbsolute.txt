@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\Data Structures II\tree\tree\bin\Debug\tree.exe.config
+C:\Users\Brian\source\repos\Data Structures II\tree\tree\bin\Debug\tree.exe
+C:\Users\Brian\source\repos\Data Structures II\tree\tree\bin\Debug\tree.pdb
+C:\Users\Brian\source\repos\Data Structures II\tree\tree\obj\Debug\tree.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Data Structures II\tree\tree\obj\Debug\tree.exe
+C:\Users\Brian\source\repos\Data Structures II\tree\tree\obj\Debug\tree.pdb

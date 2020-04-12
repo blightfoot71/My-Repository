@@ -1,0 +1,6 @@
+C:\Users\Brian\source\repos\Testability\Testability\bin\Debug\Testability.exe.config
+C:\Users\Brian\source\repos\Testability\Testability\bin\Debug\Testability.exe
+C:\Users\Brian\source\repos\Testability\Testability\bin\Debug\Testability.pdb
+C:\Users\Brian\source\repos\Testability\Testability\obj\Debug\Testability.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\Testability\Testability\obj\Debug\Testability.exe
+C:\Users\Brian\source\repos\Testability\Testability\obj\Debug\Testability.pdb
