@@ -62,6 +62,4 @@ describe('DataService Tests', () => {
       statusText: 'Server Error'
     });
   });
-
-  // Making a change for git
 });
