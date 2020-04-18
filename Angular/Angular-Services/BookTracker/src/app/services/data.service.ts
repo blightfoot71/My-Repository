@@ -9,6 +9,8 @@ import { allReaders, allBooks } from 'app/data';
 })
 export class DataService {
 
+  mostPopulerBook: Book = allBooks[0];
+
   constructor(private loggerService: LoggerService) { }
 
   getAllReaders(): Reader[] {
@@ -25,5 +27,9 @@ export class DataService {
 
   getbookById(id: number): Book {
     return allBooks.find(book => book.bookID === id);
+  }
+
+  setMostPopularBook(popularBook: Book): void {
+    this.mostPopulerBook = popularBook;
   }
 }
