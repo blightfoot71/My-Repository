@@ -269,12 +269,16 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _dashboard_dashboard_component__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./dashboard/dashboard.component */ "./src/app/dashboard/dashboard.component.ts");
 /* harmony import */ var _edit_book_edit_book_component__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./edit-book/edit-book.component */ "./src/app/edit-book/edit-book.component.ts");
 /* harmony import */ var _edit_reader_edit_reader_component__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./edit-reader/edit-reader.component */ "./src/app/edit-reader/edit-reader.component.ts");
+/* harmony import */ var _services_logger_service__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./services/logger.service */ "./src/app/services/logger.service.ts");
+/* harmony import */ var _services_data_service__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./services/data.service */ "./src/app/services/data.service.ts");
 var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
+
+
 
 
 
@@ -303,7 +307,16 @@ var AppModule = /** @class */ (function () {
                 _app_routing_module__WEBPACK_IMPORTED_MODULE_6__["AppRoutingModule"],
                 _angular_forms__WEBPACK_IMPORTED_MODULE_2__["FormsModule"]
             ],
-            providers: [],
+            providers: [
+                // PlainLoggerService,
+                // { provide: LoggerService, useExisting: PlainLoggerService },
+                // { provide: LoggerService, useValue: {
+                //   log: (message) => console.log(`MESSAGE: ${message}`),
+                //   error: (message) => console.error(`PROBLEM: ${message}`)
+                // }},
+                // { provide: DataService, useFactory: dataServiceFactory, deps: [LoggerService] }
+                _services_logger_service__WEBPACK_IMPORTED_MODULE_10__["LoggerService"], _services_data_service__WEBPACK_IMPORTED_MODULE_11__["DataService"]
+            ],
             bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_5__["AppComponent"]]
         })
     ], AppModule);
@@ -354,6 +367,7 @@ var DashboardComponent = /** @class */ (function () {
     function DashboardComponent(loggerService, dataService) {
         this.loggerService = loggerService;
         this.dataService = dataService;
+        this.loggerService.log('Creating the dashboard!');
     }
     DashboardComponent.prototype.ngOnInit = function () {
         this.allBooks = this.dataService.getAllBooks();
@@ -470,7 +484,8 @@ var EditBookComponent = /** @class */ (function () {
         Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Component"])({
             selector: 'app-edit-book',
             template: __webpack_require__(/*! ./edit-book.component.html */ "./src/app/edit-book/edit-book.component.html"),
-            styles: []
+            styles: [],
+            providers: [app_services_data_service__WEBPACK_IMPORTED_MODULE_2__["DataService"]]
         }),
         __metadata("design:paramtypes", [_angular_router__WEBPACK_IMPORTED_MODULE_1__["ActivatedRoute"],
             app_services_data_service__WEBPACK_IMPORTED_MODULE_2__["DataService"],
@@ -593,9 +608,7 @@ var DataService = /** @class */ (function () {
         this.mostPopulerBook = popularBook;
     };
     DataService = __decorate([
-        Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Injectable"])({
-            providedIn: 'root'
-        }),
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Injectable"])(),
         __metadata("design:paramtypes", [_logger_service__WEBPACK_IMPORTED_MODULE_1__["LoggerService"]])
     ], DataService);
     return DataService;
@@ -634,9 +647,7 @@ var LoggerService = /** @class */ (function () {
         console.error("ERROR: " + message);
     };
     LoggerService = __decorate([
-        Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Injectable"])({
-            providedIn: 'root'
-        })
+        Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Injectable"])()
     ], LoggerService);
     return LoggerService;
 }());
