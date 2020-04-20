@@ -398,8 +398,11 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "DataService", function() { return DataService; });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
 /* harmony import */ var _angular_common_http__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/common/http */ "./node_modules/@angular/common/fesm5/http.js");
-/* harmony import */ var _logger_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./logger.service */ "./src/app/core/logger.service.ts");
-/* harmony import */ var app_data__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! app/data */ "./src/app/data.ts");
+/* harmony import */ var rxjs__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! rxjs */ "./node_modules/rxjs/_esm5/index.js");
+/* harmony import */ var rxjs_operators__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! rxjs/operators */ "./node_modules/rxjs/_esm5/operators/index.js");
+/* harmony import */ var _logger_service__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./logger.service */ "./src/app/core/logger.service.ts");
+/* harmony import */ var app_data__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! app/data */ "./src/app/data.ts");
+/* harmony import */ var app_models_bookTrackerError__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! app/models/bookTrackerError */ "./src/app/models/bookTrackerError.ts");
 var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -413,30 +416,41 @@ var __metadata = (undefined && undefined.__metadata) || function (k, v) {
 
 
 
+
+
+
 var DataService = /** @class */ (function () {
     function DataService(loggerService, http) {
         this.loggerService = loggerService;
         this.http = http;
-        this.mostPopulerBook = app_data__WEBPACK_IMPORTED_MODULE_3__["allBooks"][0];
+        this.mostPopulerBook = app_data__WEBPACK_IMPORTED_MODULE_5__["allBooks"][0];
     }
     DataService.prototype.getAllReaders = function () {
-        return this.http.get('/api/readers');
+        return this.http.get('/api/errors/500')
+            .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["catchError"])(this.handleError));
+    };
+    DataService.prototype.handleError = function (error) {
+        var dataError = new app_models_bookTrackerError__WEBPACK_IMPORTED_MODULE_6__["BookTrackerError"]();
+        dataError.errorNumber = 100;
+        dataError.message = error.statusText;
+        dataError.friendlyMessage = 'An error occurred retrieving data.';
+        return Object(rxjs__WEBPACK_IMPORTED_MODULE_2__["throwError"])(dataError);
     };
     DataService.prototype.getReaderById = function (id) {
-        return app_data__WEBPACK_IMPORTED_MODULE_3__["allReaders"].find(function (reader) { return reader.readerID === id; });
+        return app_data__WEBPACK_IMPORTED_MODULE_5__["allReaders"].find(function (reader) { return reader.readerID === id; });
     };
     DataService.prototype.getAllBooks = function () {
-        return app_data__WEBPACK_IMPORTED_MODULE_3__["allBooks"];
+        return app_data__WEBPACK_IMPORTED_MODULE_5__["allBooks"];
     };
     DataService.prototype.getbookById = function (id) {
-        return app_data__WEBPACK_IMPORTED_MODULE_3__["allBooks"].find(function (book) { return book.bookID === id; });
+        return app_data__WEBPACK_IMPORTED_MODULE_5__["allBooks"].find(function (book) { return book.bookID === id; });
     };
     DataService.prototype.setMostPopularBook = function (popularBook) {
         this.mostPopulerBook = popularBook;
     };
     DataService = __decorate([
         Object(_angular_core__WEBPACK_IMPORTED_MODULE_0__["Injectable"])(),
-        __metadata("design:paramtypes", [_logger_service__WEBPACK_IMPORTED_MODULE_2__["LoggerService"],
+        __metadata("design:paramtypes", [_logger_service__WEBPACK_IMPORTED_MODULE_4__["LoggerService"],
             _angular_common_http__WEBPACK_IMPORTED_MODULE_1__["HttpClient"]])
     ], DataService);
     return DataService;
@@ -549,7 +563,7 @@ var DashboardComponent = /** @class */ (function () {
         var _this = this;
         this.allBooks = this.dataService.getAllBooks();
         this.dataService.getAllReaders()
-            .subscribe(function (data) { return _this.allReaders = data; }, function (err) { return console.log(err); }, function () { return _this.loggerService.log('All done getting readers!'); });
+            .subscribe(function (data) { return _this.allReaders = data; }, function (err) { return console.log(err.friendlyMessage); }, function () { return _this.loggerService.log('All done getting readers!'); });
         this.mostPopularBook = this.dataService.mostPopulerBook;
         this.loggerService.log('Done with dashboard initializaton');
     };
@@ -741,6 +755,26 @@ var EditReaderComponent = /** @class */ (function () {
             app_services_badge_service__WEBPACK_IMPORTED_MODULE_3__["BadgeService"]])
     ], EditReaderComponent);
     return EditReaderComponent;
+}());
+
+
+
+/***/ }),
+
+/***/ "./src/app/models/bookTrackerError.ts":
+/*!********************************************!*\
+  !*** ./src/app/models/bookTrackerError.ts ***!
+  \********************************************/
+/*! exports provided: BookTrackerError */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "BookTrackerError", function() { return BookTrackerError; });
+var BookTrackerError = /** @class */ (function () {
+    function BookTrackerError() {
+    }
+    return BookTrackerError;
 }());
 
 
