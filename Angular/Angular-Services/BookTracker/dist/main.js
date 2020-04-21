@@ -425,8 +425,20 @@ var DataService = /** @class */ (function () {
         this.http = http;
         this.mostPopulerBook = app_data__WEBPACK_IMPORTED_MODULE_5__["allBooks"][0];
     }
+    DataService.prototype.getAuthorRecommendation = function (readerID) {
+        return new Promise(function (resolve, reject) {
+            setTimeout(function () {
+                if (readerID > 0) {
+                    resolve('Dr. Seuss');
+                }
+                else {
+                    reject('Invalid reader ID');
+                }
+            }, 2000);
+        });
+    };
     DataService.prototype.getAllReaders = function () {
-        return this.http.get('/api/errors/500')
+        return this.http.get('/api/readers')
             .pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_3__["catchError"])(this.handleError));
     };
     DataService.prototype.handleError = function (error) {
@@ -565,6 +577,12 @@ var DashboardComponent = /** @class */ (function () {
         this.dataService.getAllReaders()
             .subscribe(function (data) { return _this.allReaders = data; }, function (err) { return console.log(err.friendlyMessage); }, function () { return _this.loggerService.log('All done getting readers!'); });
         this.mostPopularBook = this.dataService.mostPopulerBook;
+        this.dataService.getAuthorRecommendation(1)
+            .then(function (author) {
+            _this.loggerService.log(author);
+            throw new Error('Problem in the success handler!');
+        }, function (err) { return _this.loggerService.error("The promise was rejected: " + err); })
+            .catch(function (error) { return _this.loggerService.error(error.message); });
         this.loggerService.log('Done with dashboard initializaton');
     };
     DashboardComponent.prototype.deleteBook = function (bookID) {

@@ -13,12 +13,24 @@ import { BookTrackerError } from 'app/models/bookTrackerError';
 export class DataService {
 
   mostPopulerBook: Book = allBooks[0];
+  getAuthorRecommendation(readerID: number): Promise<string> {
+    return new Promise((resolve, reject) => {
+      setTimeout(() => {
+        if (readerID > 0) {
+          resolve('Dr. Seuss');
+        }
+        else {
+          reject('Invalid reader ID');
+        }
+      }, 2000);
+    })
+  }
 
   constructor(private loggerService: LoggerService,
               private http: HttpClient) { }
 
   getAllReaders(): Observable<Reader[] | BookTrackerError> {
-    return this.http.get<Reader[]>('/api/errors/500')
+    return this.http.get<Reader[]>('/api/readers')
       .pipe(
         catchError(this.handleError)
       );
