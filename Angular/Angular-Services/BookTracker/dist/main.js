@@ -551,8 +551,9 @@ module.exports = "<div class=\"container\">\r\n  <div class=\"row\">\r\n    <div
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "DashboardComponent", function() { return DashboardComponent; });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
-/* harmony import */ var app_core_logger_service__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! app/core/logger.service */ "./src/app/core/logger.service.ts");
-/* harmony import */ var app_core_data_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! app/core/data.service */ "./src/app/core/data.service.ts");
+/* harmony import */ var _angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/platform-browser */ "./node_modules/@angular/platform-browser/fesm5/platform-browser.js");
+/* harmony import */ var app_core_logger_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! app/core/logger.service */ "./src/app/core/logger.service.ts");
+/* harmony import */ var app_core_data_service__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! app/core/data.service */ "./src/app/core/data.service.ts");
 var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
@@ -600,10 +601,12 @@ var __generator = (undefined && undefined.__generator) || function (thisArg, bod
 
 
 
+
 var DashboardComponent = /** @class */ (function () {
-    function DashboardComponent(loggerService, dataService) {
+    function DashboardComponent(loggerService, dataService, title) {
         this.loggerService = loggerService;
         this.dataService = dataService;
+        this.title = title;
         this.loggerService.log('Creating the dashboard!');
     }
     DashboardComponent.prototype.ngOnInit = function () {
@@ -612,17 +615,8 @@ var DashboardComponent = /** @class */ (function () {
         this.dataService.getAllReaders()
             .subscribe(function (data) { return _this.allReaders = data; }, function (err) { return console.log(err.friendlyMessage); }, function () { return _this.loggerService.log('All done getting readers!'); });
         this.mostPopularBook = this.dataService.mostPopulerBook;
-        // this.dataService.getAuthorRecommendation(1)
-        //   .then(
-        //     (author: string) => {
-        //       this.loggerService.log(author)
-        //       throw new Error('Problem in the success handler!');
-        //     },
-        //     (err:string) => this.loggerService.error(`The promise was rejected: ${err}`)
-        //   )
-        //   .catch((error: Error) => this.loggerService.error(error.message));
         this.getAuthorRecommendationAsync(1);
-        // .catch(err => this.loggerService.error(err));
+        this.title.setTitle("Book Tracker " + _angular_core__WEBPACK_IMPORTED_MODULE_0__["VERSION"].full);
         this.loggerService.log('Done with dashboard initializaton');
     };
     DashboardComponent.prototype.getAuthorRecommendationAsync = function (readerID) {
@@ -658,8 +652,9 @@ var DashboardComponent = /** @class */ (function () {
             template: __webpack_require__(/*! ./dashboard.component.html */ "./src/app/dashboard/dashboard.component.html"),
             styles: []
         }),
-        __metadata("design:paramtypes", [app_core_logger_service__WEBPACK_IMPORTED_MODULE_1__["LoggerService"],
-            app_core_data_service__WEBPACK_IMPORTED_MODULE_2__["DataService"]])
+        __metadata("design:paramtypes", [app_core_logger_service__WEBPACK_IMPORTED_MODULE_2__["LoggerService"],
+            app_core_data_service__WEBPACK_IMPORTED_MODULE_3__["DataService"],
+            _angular_platform_browser__WEBPACK_IMPORTED_MODULE_1__["Title"]])
     ], DashboardComponent);
     return DashboardComponent;
 }());
