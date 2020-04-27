@@ -4,7 +4,7 @@ import { bloomAdd } from '@angular/core/src/render3/di';
 @Component({
   selector: 'events-thumbnail',
   template: `
-  <div class="well hoverwell thumbnail">
+  <div [routerLink]="['/events', event.id]" class="well hoverwell thumbnail">
     <h2>{{event?.name}}</h2>
     <div>Date: {{event?.date}}</div>
     <div [ngStyle]="getStartTimeStyle()"
