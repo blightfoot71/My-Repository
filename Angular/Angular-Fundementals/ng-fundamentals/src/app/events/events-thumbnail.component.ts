@@ -1,5 +1,6 @@
 import { Component, Input, Output, EventEmitter } from '@angular/core';
 import { bloomAdd } from '@angular/core/src/render3/di';
+import { IEvent } from './shared';
 
 @Component({
   selector: 'events-thumbnail',
@@ -31,7 +32,7 @@ import { bloomAdd } from '@angular/core/src/render3/di';
   `]
 })
 export class EventsThumbnailComponent {
-  @Input() event: any;
+  @Input() event: IEvent;
 
   getStartTimeStyle() {
     if (this.event && this.event.time === '8:00 am')
