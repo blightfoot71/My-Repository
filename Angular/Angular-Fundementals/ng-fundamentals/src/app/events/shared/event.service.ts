@@ -19,6 +19,11 @@ export class EventService {
     this.EVENTS.push(event)
   }
 
+  updateEvent(event) {
+    let index = this.EVENTS.findIndex(x => x.id = event.id)
+    this.EVENTS[index] = event
+  }
+
   getEvent(id: number): IEvent {
     return this.EVENTS.find(event => event.id === id)
   }
