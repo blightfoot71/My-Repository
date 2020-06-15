@@ -30,11 +30,11 @@
     </div>
     <div class="col-md-7">
       <button class="btn btn-default" [class.active]="filterBy==='all'" (click)
-        ="filterBy='all'">All</button>
+        ="filterBy='all'" style="margin-right: 3px;">All</button>
       <button class="btn btn-default" [class.active]="filterBy==='beginner'" (click)
-        ="filterBy='beginner'">Beginner</button>
+        ="filterBy='beginner'" style="margin-right: 3px;">Beginner</button>
       <button class="btn btn-default" [class.active]="filterBy==='intermediate'" (click)
-        ="filterBy='intermediate'">Intermediate</button>
+        ="filterBy='intermediate'" style="margin-right: 3px;">Intermediate</button>
       <button class="btn btn-default" [class.active]="filterBy==='advanced'" (click)
         ="filterBy='advanced'">Advanced</button>
     </div>
@@ -43,7 +43,7 @@
     </div>
   </div>
 
-  <session-list *ngIf="!addMode" [sessions]="event?.sessions"></session-list>
+  <session-list [filterBy]="filterBy" *ngIf="!addMode" [sessions]="event?.sessions"></session-list>
 
   <create-session *ngIf="addMode" (saveNewSession)="saveNewSession($event)"
    (cancelAddSession)="cancelAddSession()" ></create-session>
